@@ -1,3 +1,29 @@
+
+## 💡IDEAS
+parallax1 = https://isorepublic.com/wp-content/uploads/2018/11/barbecue-cooking.jpg "Grilling sausage / ISO Republic"
+parallax2 = https://500px.com/photo/178786823/Pretty-girl-eating-a-hot-dog-by-Elena-Vagengeim "girl eating hot dog / 500px"
+parallax3 = https://unsplash.com/photos/7pVnIt30WF8 "burger / Unsplash"
+
+https://drscdn.500px.org/photo/178786823/q%3D80_m%3D2000_k%3D1/v2?sig=11c8ca869a27e7a3a0dfbfeb49d0cb8fc2da1d84c7809b26f0716fd510949438
+
+https://500px.com/photo/178786823/Pretty-girl-eating-a-hot-dog-by-Elena-Vagengeim "girl eating hot dog. / 500px"
+
+https://web.500px.com/photo/103613521/Summertime-BBQ-by-Frank-Rhyne/ "Summertime BBQ by Frank Rhyne / 500px"
+https://500px.com/photo/145661475/grilling-bratwurst-sausages-over-flaming-grill-by-Joshua-Resnick "grilling bratwurst sausages over flaming grill / 500px"
+https://500px.com/photo/161235397/Summer-night-by-Zsanett-Berta "Summer night / 500px"
+https://500px.com/photo/177688475/cooking-burgers-on-hot-grill-with-flames-by-Joshua-Resnick "cooking burgers on hot grill with flames / 500px"
+https://web.500px.com/photo/161235397/Summer-night-by-Zsanett-Berta
+https://web.500px.com/photo/63408449/Hot-bbq-by-idalinn-engström
+
+https://www.google.ca/maps/place/Bechthold+Home+Improvements/@43.4144061,-80.6060613,227m/data=!3m1!1e3!4m5!3m4!1s0x882bf7dca8fa96f3:0x5da3e1b953fee54d!8m2!3d43.4142913!4d-80.6058398 "Bechthold Home Improvements"
+https://www.optimist.org/Forms/CCC-Planning-Guide.pdf "CCC-Planning_Guide"
+https://www.lhsc.on.ca/doc/repcom/2017/#financials "LHSC - 2017 Online Annual Report"
+https://www.uhn.ca/PrincessMargaret "Welcome to the Princess Margaret"
+https://www.bechtholdhome.com/contact-us.html "Contact Us"
+
+
+
+
 ## Fonts
  and Josefin Slab
 

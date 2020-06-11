@@ -1,0 +1,919 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forin\tfor … in … done"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"B",
+				"bold\tfont-weight"
+			],
+			[
+				"shad",
+				"text-shadow\tproperty"
+			],
+			[
+				"a",
+				"amp"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"b",
+				"bold\tfont-weight"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"pre-",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"backgroundo",
+				"background-position\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"f",
+				"ffffff"
+			],
+			[
+				"se",
+				"sectionOfVarName"
+			],
+			[
+				"va",
+				"varName2"
+			],
+			[
+				"in",
+				"inherit"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dup",
+				"Duplicate And Increment"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"table",
+				"MarkdownTableFormatter: format table"
+			],
+			[
+				"dupl",
+				"Duplicate And Increment"
+			],
+			[
+				"min",
+				"Pretty Shell: Minify"
+			],
+			[
+				"mini",
+				"Pretty Shell: Minify Selection"
+			],
+			[
+				"bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"plain s",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"side bar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side ba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pastry fr",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"package control",
+				"Package Control: Enable Package"
+			],
+			[
+				"num",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"wrao",
+				"Word Wrap: Toggle"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"SublimeLinter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"BracketHighlighter",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"a file icon",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"color high",
+				"Color Highlight: Color Highlight Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Build With: Choose Browser"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax: a",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"dupli",
+				"Duplicate And Increment"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"Package Control: enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"p enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"ope",
+				"PackageDev: Open Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"open ",
+				"PackageDev: Open Package"
+			],
+			[
+				"open pack",
+				"PackageDev: Open Package"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"diab",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"tablemd",
+				"Preferences: tableMD Key Bindings"
+			],
+			[
+				"PackageDev: ",
+				"PackageDev: Open Package"
+			],
+			[
+				"PackageDev:  New ",
+				"PackageDev: New Settings File"
+			],
+			[
+				"bracket sele",
+				"BracketHighlighter: Select Bracket Content with Brackets"
+			],
+			[
+				"PackageDev: new",
+				"PackageDev: New Main Menu File…"
+			],
+			[
+				"PackageDev: New",
+				"PackageDev: New Commands File"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"disb",
+				"Package Control: Disable Package"
+			],
+			[
+				"unm",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"un",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"create package",
+				"PackageDev: Create Package"
+			],
+			[
+				"PackageDev: cre",
+				"PackageDev: Create Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"package contro",
+				"Package Control: Create Package File"
+			],
+			[
+				"Package",
+				"Package Control: Add Repository"
+			],
+			[
+				"pakcage",
+				"View Package File"
+			],
+			[
+				"view package file",
+				"View Package File"
+			],
+			[
+				"packa",
+				"View Package File"
+			],
+			[
+				"autof",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"Pakage Control: upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Pakage Control: Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pakage Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pakage Control: u",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Pakage Control: Remove Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package mes",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"color ui",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"number",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"incre",
+				"Duplicate And Increment"
+			],
+			[
+				"dec",
+				"Emmet: Decrement Number by 1"
+			],
+			[
+				"spacegra",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"inSTAAL",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"pak",
+				"Package Control: Disable Package"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"Agila",
+				"Package Control: Install Package"
+			],
+			[
+				"Material theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"ayu ",
+				"ayu: Activate theme"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"rever",
+				"Set the Value for Revert Font Size"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sublim",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"Package Control: S",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 932.0,
+		"history":
+		[
+			"view.settings().get('syntax')",
+			"cd /Users/syd/Library/Application\\ Support/Sublime\\ Text\\ 3/Packages/",
+			"cls",
+			"clear",
+			"cls",
+			"clear",
+			"view.settings().get('syntax')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/syd/Code/bbq",
+		"/Users/syd/Code/bbq/img"
+	],
+	"file_history":
+	[
+		"/Users/syd/Code/bbq/img/working copy.html",
+		"/Users/syd/Code/bbq/img/img index.md",
+		"/Users/syd/Code/bbq/style.css",
+		"/Users/syd/Code/bbq/index.html",
+		"/Users/syd/Code/bbq/.git/packed-refs",
+		"/Users/syd/Code/bbq/.git/HEAD",
+		"/Users/syd/Code/bbq/.git/description",
+		"/Users/syd/Code/bbq/.git/config",
+		"/Users/syd/Code/bbq/.git/refs/remotes/origin/HEAD",
+		"/Users/syd/Code/bbq/.git/refs/heads/master",
+		"/Users/syd/Code/bbq/.git/logs/HEAD",
+		"/Users/syd/Code/bbq/.git/logs/refs/remotes/origin/HEAD",
+		"/Users/syd/Code/bbq/.git/logs/refs/heads/master",
+		"/Users/syd/Code/bbq/.git/info/exclude",
+		"/Users/syd/Library/Application Support/Notational Data/git CLI - GitHub CLI - command-line interface.txt",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/syd/Library/Application Support/Notational Data/Warp Speed.txt",
+		"/Users/syd/Library/Application Support/Notational Data/Capture UFC Card Data.txt",
+		"/Users/syd/Downloads/session (5).txt",
+		"/Users/syd/Downloads/session.txt",
+		"/Users/syd/Downloads/session (1).txt",
+		"/Users/syd/Downloads/session (4).txt",
+		"/Users/syd/Downloads/session (3).txt",
+		"/Users/syd/Downloads/session (2).txt",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Volumes/anjeo/Documents/files-bt/readme.md",
+		"/Users/syd/Downloads/macos10.13.6.txt",
+		"/Users/syd/Downloads/apps.txt",
+		"/Volumes/Hobbes/Users/Hobbes/Downloads/Evernote.txt",
+		"/Users/syd/Downloads/Inflation.txt",
+		"/Volumes/Hobbes/Users/Hobbes/Downloads/Cobook.txt",
+		"/Volumes/Hobbes/Users/Hobbes/Downloads/CardMinder.txt",
+		"/Volumes/Hobbes/Users/Hobbes/Downloads/app-purge/CardMinder.txt",
+		"/Volumes/Hobbes/Users/Hobbes/Downloads/FineReader.txt",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/Text Pastry/Default (OSX).sublime-keymap",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/Text Pastry/TextPastry.sublime-settings",
+		"/Volumes/Hobbes/Users/Hobbes/Downloads/ScanSnap.txt",
+		"/Users/syd/Desktop/status",
+		"/Users/syd/Downloads/test-barcodes.txt",
+		"/Users/syd/Downloads/sublime-syntax.txt",
+		"/Users/syd/Downloads/Plain Text.txt",
+		"/Users/syd/Downloads/gmail-attachments-logs/untitled.md",
+		"/Users/syd/Downloads/headers.txt",
+		"/Users/syd/Downloads/speedtest.txt",
+		"/Users/syd/Downloads/README",
+		"/Users/syd/Code/Twilight/fish-shell-twilight.txt",
+		"/Users/syd/Desktop/Twilight Syntax Highlighting Color Palette Specification.md",
+		"/Users/syd/Desktop/list.txt",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/syd/Downloads/Color Highlighter.txt",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/syd/Downloads/gmail-attachments-logs/Gmail Attachment Download Workflow 4.0.md",
+		"/Users/syd/Downloads/gmail-attachments-logs/Gmail Attachment Database and Index - 20200425.txt",
+		"/Users/syd/Downloads/gmail-attachments-logs/Gmail Attachment Database and Index.txt",
+		"/Users/syd/Downloads/gmail-attachments-logs/gmail-files-20200424-215013.txt",
+		"/Users/syd/Downloads/gmail-attachments-logs/gmail-files-20200424-113331.txt",
+		"/Users/syd/Downloads/gmail-attachments-logs/Gmail Attachment Database and Index.md",
+		"/Users/syd/Downloads/gmail-attachments-logs/gmail-files-20200423-103634.txt",
+		"/Users/syd/Downloads/z delete me/skyfonts.txt",
+		"/Users/syd/Downloads/tidy app_support.txt",
+		"/Users/syd/Downloads/app_support.txt",
+		"/Users/syd/Downloads/sonarworks.txt",
+		"/Users/syd/Downloads/plug.txt",
+		"/Users/syd/Downloads/betterzip.txt",
+		"/Users/syd/Downloads/boom.txt",
+		"/Users/syd/Downloads/caffeine.txt",
+		"/Users/syd/Downloads/eqmac.txt",
+		"/Users/syd/Downloads/finale.txt",
+		"/Users/syd/Downloads/globaldelight.txt",
+		"/Users/syd/Downloads/nano.txt",
+		"/Users/syd/Downloads/skyfonts.txt",
+		"/Users/syd/Downloads/android file transfer.txt",
+		"/Users/syd/Downloads/Finale.txt",
+		"/Users/syd/Downloads/SkyFonts.txt",
+		"/Users/syd/Downloads/RegExRX.txt",
+		"/Users/syd/Downloads/Plug.txt",
+		"/Users/syd/Downloads/lowercaseCAPITAL.txt",
+		"/Applications/Plug.app/Contents/Info.plist",
+		"/Applications/Plug.app/Contents/PkgInfo",
+		"/Applications/lowercaseCAPITAL.app/Contents/Info.plist",
+		"/Users/syd/Library/Preferences/com.mti.Monotype-SkyFonts.plist",
+		"/Users/syd/Library/Saved Application State/com.mti.SkyFontsInstaller.savedState/windows.plist",
+		"/Users/syd/Library/Saved Application State/com.mti.SkyFontsInstaller.savedState/data.data",
+		"/Users/syd/Downloads/gmail-attachments-logs/gmail-files-20200419-134452.txt",
+		"/Users/syd/Downloads/Boom.txt",
+		"/Users/syd/Downloads/eqMac.txt",
+		"/Users/syd/Dropbox/Apps/Notational Data/config.app-- iMac- record  apps via Soundflower.txt",
+		"/Users/syd/Code/MarkdownTableFormatter/comparables.md",
+		"/Users/syd/Code/dashCal/working.dashCal.sh",
+		"/Users/syd/Code/Playa/playa.applescript.bak",
+		"/Users/syd/Code/Playa/playa.applescript",
+		"/Users/syd/Code/dashCal/dashCal-working.sh",
+		"/Users/syd/Code/dashCal/dashCal.sh",
+		"/Users/syd/Code/dashCal/dashCal.sh.bak",
+		"/Users/syd/.local/share/.vivaldi_reporting_data",
+		"/Users/syd/.mono/registry/last-btime",
+		"/Users/syd/.bash_sessions/_expiration_check_timestamp",
+		"/Users/syd/.adobe/md5",
+		"/Users/syd/.clip2imgur/config.plist",
+		"/Users/syd/.config/configstore/update-notifier-npm.json",
+		"/Users/syd/.cups/lpoptions",
+		"/Users/syd/.config\\BHOK\\2018\\Properties.dat",
+		"/Users/syd/.CFUserTextEncoding",
+		"/Users/syd/.bash_profile",
+		"/Users/syd/.bash_history",
+		"/Users/syd/Downloads/gmail-attachments-logs/gmail-files-20200419-131053.txt",
+		"/Users/syd/Downloads/gmail-attachments-logs/aec_report_20200418-013201.html",
+		"/Users/syd/Downloads/gmail-attachments-logs/aec_report_20200418-111947.html",
+		"/Users/syd/Downloads/gmail-attachments-logs/aec_report_20200418-225036.html",
+		"/Users/syd/Downloads/gmail-attachments-logs/Gmail Attachment Download Workflow 3.0.txt",
+		"/Users/syd/Downloads/gmail-attachments/gmail-files.txt",
+		"/Users/syd/Downloads/gmail-attachments/Gmail Attachment Download Workflow.txt",
+		"/Users/syd/Downloads/gmail-attachments/Gmail Attachment Database and Index.txt",
+		"/Users/syd/Downloads/gmail-attachments-repo/Gmail Attachment Database and Index.txt",
+		"/Users/syd/Code/MarkdownTableFormatter/Commands.sublime-commands",
+		"/Users/syd/Code/MarkdownTableFormatter/LICENSE",
+		"/Users/syd/Code/tableMD/LICENSE",
+		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
+		"/Users/syd/Code/MarkdownTableFormatter/tablemd.py",
+		"/Users/syd/Code/MarkdownTableFormatter/simple_markdown/table.py",
+		"/Users/syd/Code/MarkdownTableFormatter/tests/test.py",
+		"/Users/syd/Code/MarkdownTableFormatter/tests/test.md",
+		"/Users/syd/Code/MarkdownTableFormatter/tests/testpath.py"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 304.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ava",
+			"gw",
+			"geot",
+			"gw",
+			"background",
+			"\\w\\?",
+			"Geotextile",
+			"gw",
+			"Virtual",
+			"w3-center",
+			"font-fa",
+			"wide",
+			"w3-wide",
+			"becht",
+			"impro",
+			"%",
+			"cure",
+			"virtu",
+			"<([\\w][\\w]*)\\b[^>]*>(?<txt_2>.*?)<\\/\\1>",
+			"(<br>)\\s+(\\w+)",
+			"<br>\n            (\\w+)",
+			"<br>\n            \\w+",
+			"<([\\w][\\w]*)\\b[^>]*>(?<txt_2>.*?)<\\/\\1>",
+			"portfolio",
+			"PORTFOLIO",
+			"<([\\w][\\w]*)\\b[^>]*>(?<txt_2>.*?)<\\/\\1>",
+			"(?<=>)(\\w[\\S\\h ]+\\w)(?=</)",
+			"> ([a-z]+)",
+			"> (\\w+)",
+			"(?<=>)(\\w[\\S\\h ]+\\w)(?=</)",
+			">([\\S\\h ]+)<",
+			"face",
+			"font",
+			"/img/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"BW",
+			"GW",
+			"$1$2",
+			"$1",
+			"\\LIMPACT",
+			"IMPACT",
+			">$1",
+			"$1",
+			"img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 104.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 133.0
+	},
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 119.0
+	},
+	"pinned_build_system": "Packages/User/Choose Browser.sublime-build",
+	"project": "bbq.sublime-project",
+	"replace":
+	{
+		"height": 73.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/whois Alfred script/whois Alfred script.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
