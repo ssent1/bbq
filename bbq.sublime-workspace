@@ -600,10 +600,11 @@
 	],
 	"file_history":
 	[
+		"/Users/syd/Code/bbq/index.html",
+		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/.htaccess",
 		"/Users/syd/Code/bbq/img/working copy.html",
 		"/Users/syd/Code/bbq/img/img index.md",
 		"/Users/syd/Code/bbq/style.css",
-		"/Users/syd/Code/bbq/index.html",
 		"/Users/syd/Code/bbq/.git/packed-refs",
 		"/Users/syd/Code/bbq/.git/HEAD",
 		"/Users/syd/Code/bbq/.git/description",
@@ -726,8 +727,7 @@
 		"/Users/syd/Code/MarkdownTableFormatter/tablemd.py",
 		"/Users/syd/Code/MarkdownTableFormatter/simple_markdown/table.py",
 		"/Users/syd/Code/MarkdownTableFormatter/tests/test.py",
-		"/Users/syd/Code/MarkdownTableFormatter/tests/test.md",
-		"/Users/syd/Code/MarkdownTableFormatter/tests/testpath.py"
+		"/Users/syd/Code/MarkdownTableFormatter/tests/test.md"
 	],
 	"find":
 	{
