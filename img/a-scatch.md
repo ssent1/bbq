@@ -153,3 +153,14 @@ all
  https://www.w3schools.com/cssref/playit.asp?filename=playcss_align-content&preval=stretch "Playit"
  https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_align-content "Tryit Editor v3.6"
  https://www.w3schools.com/cssref/css3_pr_align-content.asp "CSS align-content property"
+
+## Contribution Calculations
+
+a         = $25,000
+b         = $20,000
+c         = $15,000
+t "total" = $60,000
+
+(a/t*100) in percent = 41.667 %
+(b/t*100) in percent = 33.333 %
+(c/t*100) in percent = 25 %

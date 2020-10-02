@@ -84,12 +84,16 @@
 		"selected_items":
 		[
 			[
-				"dup",
-				"Duplicate And Increment"
-			],
-			[
 				"wra",
 				"Word Wrap: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"dup",
+				"Duplicate And Increment"
 			],
 			[
 				"wrap",
@@ -166,10 +170,6 @@
 			[
 				"num",
 				"Emmet: Increment Number by 1"
-			],
-			[
-				"wr",
-				"Word Wrap: Toggle"
 			],
 			[
 				"package",
@@ -600,6 +600,9 @@
 	],
 	"file_history":
 	[
+		"/Users/syd/Code/bbq/img/a-scatch.md",
+		"/Users/syd/Library/Application Support/Notational Data/Bell Sports » Disney Frozen Bike Helmet.txt",
+		"/Users/syd/Library/Application Support/Notational Data/UFC Betting Odds & Payout Calculator.txt",
 		"/Users/syd/Code/bbq/index.html",
 		"/Users/syd/Code/bbq/style.css",
 		"/private/var/folders/yd/_f0tzk551rzbf4xpp5ksyr500000gn/T/fz3temp-2/.htaccess",
@@ -724,10 +727,7 @@
 		"/Users/syd/Code/MarkdownTableFormatter/LICENSE",
 		"/Users/syd/Code/tableMD/LICENSE",
 		"/Users/syd/Library/Application Support/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
-		"/Users/syd/Code/MarkdownTableFormatter/tablemd.py",
-		"/Users/syd/Code/MarkdownTableFormatter/simple_markdown/table.py",
-		"/Users/syd/Code/MarkdownTableFormatter/tests/test.py",
-		"/Users/syd/Code/MarkdownTableFormatter/tests/test.md"
+		"/Users/syd/Code/MarkdownTableFormatter/tablemd.py"
 	],
 	"find":
 	{
@@ -745,6 +745,41 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"(https{0,1}:\\/{2}\\S*\\w)",
+			"\\/$",
+			"(?:https?:\\/\\/)?(?:www.)?(amazon|audible)(?:\\.com?\\.\\w{2}\\/|\\.\\w{2,3}\\/)(pd\\/)?(?:[\\w%-]+)\\/(dp\\/)?(\\w{10})?( \")?(?:.\\S+)?(?:(.+) \\| Audible.ca(\")|((?:Amazon.com: )?(.+)))",
+			"(https{0,1}:\\/{2}\\S*\\w)",
+			"(?:https?:\\/\\/)?(?:www.)?(amazon|audible)(?:\\.com?\\.\\w{2}\\/|\\.\\w{2,3}\\/)(pd\\/)?(?:[\\w%-]+)\\/(dp\\/)?(\\w{10})?( \")?(?:.\\S+)?(?:(.+) \\| Audible.ca(\")|((?:Amazon.com: )?(.+)))",
+			"(?:https?:\\/\\/)?(?:www.)?(amazon|audible)(?:\\.com?\\.\\w{2}\\/|\\.\\w{2,3}\\/)(pd\\/)?(?:[\\w%-]+)\\/(dp\\/)?(\\w{10})?(?:.\\S+)?( \")?(?:(.+) \\| Audible.ca(\")|((?:Amazon.com: )?(.+)))",
+			"(?:https?:\\/\\/)?(?:www.)?(amazon|audible)(?:\\.com?\\.\\w{2}\\/|\\.\\w{2,3}\\/)(pd\\/)?(?:[\\w%-]+)\\/(dp\\/)?(\\w{10})(?:.\\S+)?( \")?(?:(.+) \\| Audible.ca(\")|((?:Amazon.com: )?(.+)))",
+			"(?:https?:\\/\\/)?(?:www.)?(amazon|audible)(?:\\.com?\\.\\w{2}\\/|\\.\\w{2,3}\\/)(pd\\/)?(?:[\\w%-]+)\\/(dp\\/)?(\\w{10})(?:.\\S+)?",
+			"ref",
+			"(?:https?:\\/\\/)?(?:www.)?(amazon|audible)(?:\\.com?\\.\\w{2}\\/|\\.\\w{2,3}\\/)(pd\\/)?(?:[\\w%-]+)\\/(dp\\/)?(\\w{10}).\\S+",
+			"(amazon|audible)(?:\\.com?\\.\\w{2}|\\.\\w{2,3})\\/(pd\\/)?(?:[\\w-%]+)\\/(dp\\/)?(\\w{10})?(?=\\/)?(?=\\?qid=)?(?:\\S+)",
+			"(?<store>amazon|audible)(?:\\.com?\\.\\w{2}|\\.\\w{2,3})\\/(pd\\/)?(?:[\\w%-]+)\\/(dp\\/)?(\\w{10})(?=\\/)?(?=\\?qid=)?(?:\\S+)",
+			"(?<store>amazon|audible)(?:\\.com?\\.\\w{2}|\\.\\w{2,3})\\/(pd\\/)?(?:[\\w-]+)\\/(dp\\/)?(\\w{10})(?=\\/)?(?=\\?qid=)?(?:\\S+)",
+			"(?:\\S+)?(?<store>amazon\\.|audible\\.)(?:\\S+)(\\/\\w{2}\\/\\w{10})(?:\\S+)",
+			"(le|zon)\\.br",
+			"(?:\\S+)?(?<store>amazon\\.|audible\\.)(?:\\S+)(\\/\\w{2}\\/\\w{10})(?:\\S+)",
+			"\\/$",
+			"\\/$\\n",
+			"^(.*+)(?:\\r?\\n\\1){23}$",
+			"((?<store>amazon|audible)([\\.\\w]{2,})\\n)\\1{23}+",
+			"((?<store>amazon|audible)([\\.\\w]{2,})\\n)\\1{23}",
+			"^(.*+)(?:\\r?\\n\\1){23}$",
+			"amazon.com",
+			"amazon",
+			"(\\[)(\\[\\d)(]]\\[\\d+])",
+			"(\\[)(\\[\\d]]\\[\\d+])",
+			"(\\[)(\\d+)(\\]\\[\\d+\\])",
+			"amazon.com",
+			"((?<store>amazon|audible)([\\.\\w]{2,})\\n)\\1{23}",
+			"((?<store>amazon|audible)(\\.\\w{2,})\\n)\\1{23}",
+			"\\/$",
+			":",
+			"^\\h+",
+			"\\S$",
+			"(.+)(?=:)",
 			"black",
 			"w3-wide",
 			"w3-xlarge",
@@ -803,6 +838,18 @@
 		"regex": true,
 		"replace_history":
 		[
+			"",
+			"https://www.$1.ca/$2$3$4/$5$6$7$8",
+			"https://www.$1.ca/$2$3$4/",
+			"https://www.$1ca$2",
+			"$1.com.br",
+			"$1.com.br/",
+			"https://www.$1ca$2",
+			"$1\\\\$2\\\\$3",
+			" $1[$2]$3",
+			"$1[$2]$3",
+			"",
+			"\"$1\"",
 			"BW",
 			"GW",
 			"$1$2",
@@ -927,7 +974,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 299.0,
 	"status_bar_visible": true,
 	"template_settings":
